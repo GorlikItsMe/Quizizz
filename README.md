@@ -1,10 +1,10 @@
-# Quizizz Odpwowiedzi
+# Quizizz Odpowiedzi
 ## Jak Używać
 
 1. Dołącz do quizu, poczekaj na pierwsze pytanie.
 2. Otwórz konsolę, wklej następujący kod:
 ```ts
-fetch("https://raw.githubusercontent.com/Anonimas420/quizizz_atsakymai/main/dist/bundle.js")
+fetch("https://raw.githubusercontent.com/Skygoplay/Quizizz/master/skrypt.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
