@@ -1,5 +1,6 @@
 # Quizizz Odpowiedzi
 ## Jak Używać
+Autor Skryptu: https://github.com/Anonimas420/quizizz_atsakymai
 
 1. Dołącz do quizu, poczekaj na pierwsze pytanie.
 2. Otwórz konsolę, wklej następujący kod:
