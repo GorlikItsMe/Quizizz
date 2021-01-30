@@ -8,7 +8,7 @@ fetch("https://raw.githubusercontent.com/Skygoplay/Quizizz/master/skrypt.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
-3. Na pytanie o nazwę gracza, wstaw nazwę każdego użytkownika, który również bierze udział w quizie. Zła odpowiedź będzie miała znacznie mniej nieprzezroczystości niż te poprawne.
+3. Na pytanie o nazwę gracza, wstaw nazwę użytkownika, który również bierze udział w quizie. Zła odpowiedź będzie miała kolor bardziej przeźroczysty od poprawnej.
 4. Powtórz kroki 2 i 3 dla każdego pytania.
 
 
