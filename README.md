@@ -12,5 +12,5 @@ fetch("https://raw.githubusercontent.com/Skygoplay/Quizizz/master/skrypt.js")
 4. Powtórz kroki 2 i 3 dla każdego pytania.
 
 
-Jak widać na tym zrzucie ekranu, odpowiedź "" jest prawidłowa
-![screenshot](/docs/screenshot_1.png)
+Jak widać na tym zrzucie ekranu, odpowiedź "16" jest prawidłowa
+![screenshot](screenshot.png)
