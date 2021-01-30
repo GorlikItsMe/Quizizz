@@ -15,8 +15,3 @@ fetch("https://raw.githubusercontent.com/Skygoplay/Quizizz/master/skrypt.js")
 
 Jak widać na tym zrzucie ekranu, odpowiedź "16" jest prawidłowa
 ![screenshot](screenshot.png)
-    <iframe width="560" height="315"
-src="https://www.youtube.com/embed/CDe5l7KJ_Y8" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
