@@ -14,4 +14,4 @@ fetch("https://raw.githubusercontent.com/Skygoplay/Quizizz/master/skrypt.js")
 
 
 Jak widać na tym zrzucie ekranu, odpowiedź "16" jest prawidłowa
-![screenshot](screenshot.png)
+![screenshot](https://i.imgur.com/qlSc02l.png)
